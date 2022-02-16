@@ -6,6 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 
 		System.out.println(" First Project Pushing >>>");
+		System.out.println("Welcome to the GitHub");
 	}
 
 }
